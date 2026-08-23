@@ -71,4 +71,4 @@ This project is an end-to-end data analytics project built using Python and Powe
 ## 👩‍💻 Author
 
 **Tanishka Singh**
-Indira Gandhi Delhi Technical Univer  
+Indira Gandhi Delhi Technical Unive  
